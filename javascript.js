@@ -1,17 +1,3 @@
-/*
-add()
-subtract()
-multiply()
-divide()
-onKeyPress -> 
-  {
-    if number/. -> addText()
-    if operand -> operate()
-    if C -> deleteCurentInput()
-    if AC -> deleteMemory()
-
-  }
-*/
 const DIGITS = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "."];
 const OPERANDS = ["÷", "×", "-", "+", "="];
 const SPECIAL_KEYS = ["AC", "C", "⁺∕₋", "%"];
